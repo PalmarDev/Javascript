@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Digimon</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      body {
+        padding: 0px;
+        margin: 0px;
+        background-image: url("src/resource/papel.jpg");
+        background-size: cover;
+        background-attachment: fixed;
+        width: 100%;
+        height: 100vh;
+        overflow-x: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flex align-center justify-center py-10 w-[100%]">
+      <img class="w-[80%]" src="./src/resource/Digimon.png" alt="Digimon" />
+    </div>
+    <div
+      id="root"
+      class="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 w-[90%] lg:ml-[5%]"></div>
+  </body>
+  <script src="./src/js/script.js"></script>
+</html>
