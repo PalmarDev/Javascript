@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.230b010d.css",
+    "main.js": "/static/js/main.0f43ea21.js",
+    "static/media/background.jpg": "/static/media/background.2294e71e4418c6b6d97e.jpg",
+    "static/media/Yugioh.png": "/static/media/Yugioh.43285b4d09be58ba89bf.png",
+    "static/media/Konami_logo.webp": "/static/media/Konami_logo.13cd49562789035e0488.webp",
+    "index.html": "/index.html",
+    "main.230b010d.css.map": "/static/css/main.230b010d.css.map",
+    "main.0f43ea21.js.map": "/static/js/main.0f43ea21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.230b010d.css",
+    "static/js/main.0f43ea21.js"
+  ]
+}
